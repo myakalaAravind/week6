@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "MIKE",
+      "position": "Software Engineer",
+      "photo": "https://hips.hearstapps.com/hmg-prod/images/finn-1653510331.jpg?crop=0.668xw:1.00xh;0.107xw,0&resize=980:*"
+    },
+    {
+      "id": 2,
+      "name": "ELEVEN",
+      "position": "Product Manager",
+      "photo": "https://i.pinimg.com/736x/e9/a7/a9/e9a7a9fd1fb90a48552a831d38b8c86b.jpg"
+    },
+    {
+      "id": 3,
+      "name": "RAVI KUMAR",
+      "position": "Data Analyst",
+      "photo": "https://static.wikia.nocookie.net/strangerthings8338/images/4/45/Will_in_California.png/revision/latest?cb=20220626191619"
+    },
+    {
+      "id": 4,
+      "name": "MAXI",
+      "position": "UX Designer",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sadie_Sink_1-00895_%2843866089942%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 5,
+      "name": "HOPPER",
+      "position": "Marketing Specialist",
+      "photo": "https://preview.redd.it/whats-your-opinion-on-hopper-v0-l13jq5te3c7a1.png?width=640&crop=smart&auto=webp&s=1dc0502b0e91d376b11748e26ac92e697389c39e"
+    }
+  ]
+  
